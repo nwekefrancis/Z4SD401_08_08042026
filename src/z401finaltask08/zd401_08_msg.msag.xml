@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZD401_08_MSG</ARBGB>
+    <MASTERLANG>D</MASTERLANG>
+    <STEXT>Messages for final task 08</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZD401_08_MSG</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Truck &amp;1 &amp;2 can only carry &amp;3 ton(s). Minimum is 2.</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
